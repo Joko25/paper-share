@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/social-sharing",
+  "_id": "@ionic-native-mocks/social-sharing@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-K91wZxaPRWdFTS6SDa1QawiwpyBbLETGoC5v1e09Rgd1gJzoJPShsyXo5AH5g8l6d9eUzecjfRTFfdsorT/eZA==",
+  "_location": "/@ionic-native-mocks/social-sharing",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/social-sharing",
+    "name": "@ionic-native-mocks/social-sharing",
+    "escapedName": "@ionic-native-mocks%2fsocial-sharing",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/social-sharing/-/social-sharing-2.0.6.tgz",
+  "_shasum": "e12f2b1839dabd35f6c8a910b8dd5b0585cbdb31",
+  "_spec": "@ionic-native-mocks/social-sharing",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/social-sharing",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

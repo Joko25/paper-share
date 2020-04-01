@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/location-accuracy",
+  "_id": "@ionic-native-mocks/location-accuracy@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-+GwMvkw0Hw0O8XPflJxX9x4HfLimOiw306wvCHjC1GFe4rTdjEbsG2TDqfLBiu8JiuJsbXVaayqMBVnXpJ/ROw==",
+  "_location": "/@ionic-native-mocks/location-accuracy",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/location-accuracy",
+    "name": "@ionic-native-mocks/location-accuracy",
+    "escapedName": "@ionic-native-mocks%2flocation-accuracy",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/location-accuracy/-/location-accuracy-2.0.6.tgz",
+  "_shasum": "a2749d6f1a688f79932e6e68454d2c0ea20ba230",
+  "_spec": "@ionic-native-mocks/location-accuracy",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/location-accuracy",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

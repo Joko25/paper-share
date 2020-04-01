@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/admob-free",
+  "_id": "@ionic-native-mocks/admob-free@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-pTNJxk4BXyqnVI+jQqil2eKi0m/Otos9qbucIKccAsilckoplfgrr8d60C2wau3TiMtVO278rZKNzY+4P6JPkg==",
+  "_location": "/@ionic-native-mocks/admob-free",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/admob-free",
+    "name": "@ionic-native-mocks/admob-free",
+    "escapedName": "@ionic-native-mocks%2fadmob-free",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/admob-free/-/admob-free-2.0.6.tgz",
+  "_shasum": "57261feb00257a38b7e2f2574bab0a30400450bf",
+  "_spec": "@ionic-native-mocks/admob-free",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/admob-free",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

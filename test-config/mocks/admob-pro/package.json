@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/admob-pro",
+  "_id": "@ionic-native-mocks/admob-pro@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-xQRo69S1ois/V/yMkvDKOINFedhXU7CAMP97Yu0c8cT+H9ONpernKIqN9Orv62ErUHwHiAx/9LfIsluDrrnl3A==",
+  "_location": "/@ionic-native-mocks/admob-pro",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/admob-pro",
+    "name": "@ionic-native-mocks/admob-pro",
+    "escapedName": "@ionic-native-mocks%2fadmob-pro",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/admob-pro/-/admob-pro-2.0.6.tgz",
+  "_shasum": "b0a4ca0539ee26cd397374cfd3e9b6e784a67d41",
+  "_spec": "@ionic-native-mocks/admob-pro",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/admob-pro",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

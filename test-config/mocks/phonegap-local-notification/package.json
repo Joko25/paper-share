@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/phonegap-local-notification",
+  "_id": "@ionic-native-mocks/phonegap-local-notification@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-QlrI4HE/FTkEzGkSHAQoOrpcyH6BwiWnXIEcfP94lbe8hX6wQJV6Dqibv2gwOfeiZ8jDSw4DhxJ8Xo+Np/L+sw==",
+  "_location": "/@ionic-native-mocks/phonegap-local-notification",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/phonegap-local-notification",
+    "name": "@ionic-native-mocks/phonegap-local-notification",
+    "escapedName": "@ionic-native-mocks%2fphonegap-local-notification",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/phonegap-local-notification/-/phonegap-local-notification-2.0.6.tgz",
+  "_shasum": "3858bd4a05f42c9896c67d8fe652890b73e51d7b",
+  "_spec": "@ionic-native-mocks/phonegap-local-notification",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/phonegap-local-notification",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

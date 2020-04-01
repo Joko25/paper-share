@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/native-storage",
+  "_id": "@ionic-native-mocks/native-storage@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-07m/pkbQscXPQi61RQhIF/DTW7W6Yx1GAKOABNkuLtUvKLKhayYmlQpgMp4lR7NVbALCRpNERf7c2rIbrKEHAA==",
+  "_location": "/@ionic-native-mocks/native-storage",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/native-storage",
+    "name": "@ionic-native-mocks/native-storage",
+    "escapedName": "@ionic-native-mocks%2fnative-storage",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/native-storage/-/native-storage-2.0.6.tgz",
+  "_shasum": "42993d4676f9a68deff540e55ef8ceb875274763",
+  "_spec": "@ionic-native-mocks/native-storage",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/native-storage",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

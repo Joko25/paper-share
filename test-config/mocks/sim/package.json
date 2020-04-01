@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/sim",
+  "_id": "@ionic-native-mocks/sim@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-Vx6UT243UjEETwF18dWY3dnX6mD88GOkAR0ALEGoN5t9SCrETYP74lVPZw/Zw9H5ZfdPmKXLzv5v4vhjDnR3PA==",
+  "_location": "/@ionic-native-mocks/sim",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/sim",
+    "name": "@ionic-native-mocks/sim",
+    "escapedName": "@ionic-native-mocks%2fsim",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/sim/-/sim-2.0.6.tgz",
+  "_shasum": "1e117c903826fa843f0854499ea0ccd1a07c5f96",
+  "_spec": "@ionic-native-mocks/sim",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/sim",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

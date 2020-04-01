@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/spinner-dialog",
+  "_id": "@ionic-native-mocks/spinner-dialog@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-6XD5vGgzndA48S12dQ+VyEnVBD2aRB7Yv7rdr4OeOZyLK5c75lmN18cpBQc3ePl+CQq3JMEwUJaUUCwh46PHBg==",
+  "_location": "/@ionic-native-mocks/spinner-dialog",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/spinner-dialog",
+    "name": "@ionic-native-mocks/spinner-dialog",
+    "escapedName": "@ionic-native-mocks%2fspinner-dialog",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/spinner-dialog/-/spinner-dialog-2.0.6.tgz",
+  "_shasum": "4df0b47e6100ebad5780b5ef39d9710c540182e4",
+  "_spec": "@ionic-native-mocks/spinner-dialog",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/spinner-dialog",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/flashlight",
+  "_id": "@ionic-native-mocks/flashlight@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-BcvtLFtR+tcm8VG4VKz0WfhGJbHu5JBSghe16dZWTvwyLBgYmeL1LH4fX+Fxyx0jSit331F6ZDyUwnu+SEE78Q==",
+  "_location": "/@ionic-native-mocks/flashlight",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/flashlight",
+    "name": "@ionic-native-mocks/flashlight",
+    "escapedName": "@ionic-native-mocks%2fflashlight",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/flashlight/-/flashlight-2.0.6.tgz",
+  "_shasum": "d836c5b0b315c2eaa5602b4a374c9f533bb2d6e7",
+  "_spec": "@ionic-native-mocks/flashlight",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/flashlight",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

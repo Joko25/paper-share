@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":3,"metadata":{"DeviceMock":{"__symbolic":"class","extends":{"__symbolic":"reference","module":"@ionic-native/device","name":"Device"}}}},{"__symbolic":"module","version":1,"metadata":{"DeviceMock":{"__symbolic":"class","extends":{"__symbolic":"reference","module":"@ionic-native/device","name":"Device"}}}}]

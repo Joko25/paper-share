@@ -1,0 +1,17 @@
+{
+    "extends": [
+        "tslint-etc"
+    ],
+    "rules": {
+        "no-unused-declaration": {
+            "options": [
+                {
+                    "declarations": true,
+                    "ignored": {},
+                    "imports": true
+                }
+            ],
+            "severity": "error"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/streaming-media",
+  "_id": "@ionic-native-mocks/streaming-media@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-OwIliAn+W7vLLIc42Z/BqP4fvvNsDVOuTZ9pHN2vOwjQs9QuL954/g+n/bv/RdFl6zIE4Be7kz7veaud0W2W6g==",
+  "_location": "/@ionic-native-mocks/streaming-media",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/streaming-media",
+    "name": "@ionic-native-mocks/streaming-media",
+    "escapedName": "@ionic-native-mocks%2fstreaming-media",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/streaming-media/-/streaming-media-2.0.6.tgz",
+  "_shasum": "5b88fa2f2cd6b19d30de80986071e86d99769616",
+  "_spec": "@ionic-native-mocks/streaming-media",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/streaming-media",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

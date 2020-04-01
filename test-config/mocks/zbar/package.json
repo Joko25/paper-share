@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/zbar",
+  "_id": "@ionic-native-mocks/zbar@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-kjeEZ38ehTYXKYUp/usSuxUPVkg95h8H+2Lrsp1JOMRNoP7LNM7Bbd8SXwvUJSRpK3Y+kJaJtIR746dK/JXt2Q==",
+  "_location": "/@ionic-native-mocks/zbar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/zbar",
+    "name": "@ionic-native-mocks/zbar",
+    "escapedName": "@ionic-native-mocks%2fzbar",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/zbar/-/zbar-2.0.6.tgz",
+  "_shasum": "f35434be0ad72f035f7deacb6443af172c8a547c",
+  "_spec": "@ionic-native-mocks/zbar",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/zbar",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

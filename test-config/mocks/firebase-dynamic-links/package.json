@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/firebase-dynamic-links",
+  "_id": "@ionic-native-mocks/firebase-dynamic-links@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-II/T0s/NHskkGP8ZtgFcNiYn066BQDQNqw78yv95T2IblWt5POpVrVBmJszWYCkGd69uUqO1VWYZA9Oy7FOyBQ==",
+  "_location": "/@ionic-native-mocks/firebase-dynamic-links",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/firebase-dynamic-links",
+    "name": "@ionic-native-mocks/firebase-dynamic-links",
+    "escapedName": "@ionic-native-mocks%2ffirebase-dynamic-links",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/firebase-dynamic-links/-/firebase-dynamic-links-2.0.6.tgz",
+  "_shasum": "e398098f0235067051a30fb938771bf813cb1c31",
+  "_spec": "@ionic-native-mocks/firebase-dynamic-links",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/firebase-dynamic-links",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

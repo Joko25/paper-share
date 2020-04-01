@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/launch-navigator",
+  "_id": "@ionic-native-mocks/launch-navigator@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-TZUYJEBI9Kv+FYqM4ticdc47H99EDpogLkfbAZeo1wfY3ehl+o8wtiIrc6kLj4fc8WIacxg3SFmfq+8EbPZOUQ==",
+  "_location": "/@ionic-native-mocks/launch-navigator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/launch-navigator",
+    "name": "@ionic-native-mocks/launch-navigator",
+    "escapedName": "@ionic-native-mocks%2flaunch-navigator",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/launch-navigator/-/launch-navigator-2.0.6.tgz",
+  "_shasum": "ebe2d209d26da21a0d1c76c57f64693cfa544baa",
+  "_spec": "@ionic-native-mocks/launch-navigator",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/launch-navigator",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

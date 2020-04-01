@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/hyper-track",
+  "_id": "@ionic-native-mocks/hyper-track@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-k74qaloZrrGMrgsai5uhhqxUfHIuXGrNXsTSwwD0EPBVS5QgDYZqmIQ9y8FF/cUj1QFI7GiyO5zkzxQCqH0w6w==",
+  "_location": "/@ionic-native-mocks/hyper-track",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/hyper-track",
+    "name": "@ionic-native-mocks/hyper-track",
+    "escapedName": "@ionic-native-mocks%2fhyper-track",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/hyper-track/-/hyper-track-2.0.6.tgz",
+  "_shasum": "fb90c0e040030dbde3a8d4303b1cbb53eeb761bf",
+  "_spec": "@ionic-native-mocks/hyper-track",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/hyper-track",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

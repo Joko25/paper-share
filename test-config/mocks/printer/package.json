@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/printer",
+  "_id": "@ionic-native-mocks/printer@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-ncm3xWpUIxll9UjSLMSBzX8XWL1JkX++ybGo1Q4APloY1qm0j+3r3OVOhmL8IXoFTFhvYGd8vOlADCRE9psuvw==",
+  "_location": "/@ionic-native-mocks/printer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/printer",
+    "name": "@ionic-native-mocks/printer",
+    "escapedName": "@ionic-native-mocks%2fprinter",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/printer/-/printer-2.0.6.tgz",
+  "_shasum": "ffd7f44731ad79a19b437c601b5f0dae6f6697bb",
+  "_spec": "@ionic-native-mocks/printer",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/printer",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

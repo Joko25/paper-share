@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/fcm",
+  "_id": "@ionic-native-mocks/fcm@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-hhf+lx7Ta+87qSMr2rixmpdxTI5A3rZzclaCxe74sAxFB4AylEXqVttnR62d9SgDziexECFh9bCo8t9vNk0Maw==",
+  "_location": "/@ionic-native-mocks/fcm",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/fcm",
+    "name": "@ionic-native-mocks/fcm",
+    "escapedName": "@ionic-native-mocks%2ffcm",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/fcm/-/fcm-2.0.6.tgz",
+  "_shasum": "ac646ed6f36204df65d0041ded431a6a51530d3c",
+  "_spec": "@ionic-native-mocks/fcm",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/fcm",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

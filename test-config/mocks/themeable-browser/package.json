@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/themeable-browser",
+  "_id": "@ionic-native-mocks/themeable-browser@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-o1HCQ6PFkAj/NA3eYCrtvgGcRozx7SyUyM3MgUvjy3BMkCimeLIQlZ/70/r2rNuxMb73xPep9SRNAXMsbNMJzA==",
+  "_location": "/@ionic-native-mocks/themeable-browser",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/themeable-browser",
+    "name": "@ionic-native-mocks/themeable-browser",
+    "escapedName": "@ionic-native-mocks%2fthemeable-browser",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/themeable-browser/-/themeable-browser-2.0.6.tgz",
+  "_shasum": "99edc2e61ce6f55bdce067483fd40813d9e040a5",
+  "_spec": "@ionic-native-mocks/themeable-browser",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/themeable-browser",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

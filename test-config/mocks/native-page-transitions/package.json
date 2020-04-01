@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/native-page-transitions",
+  "_id": "@ionic-native-mocks/native-page-transitions@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-7tDQQRynif91CSioyUE/r3fp2S/1L5DxBzpKS8sBzD+w3MW/5nuSGj7QbKLs8Sa61iLlAdM+HAn6pTl9jxn3DQ==",
+  "_location": "/@ionic-native-mocks/native-page-transitions",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/native-page-transitions",
+    "name": "@ionic-native-mocks/native-page-transitions",
+    "escapedName": "@ionic-native-mocks%2fnative-page-transitions",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/native-page-transitions/-/native-page-transitions-2.0.6.tgz",
+  "_shasum": "9b8856f52dfcad064472fd5c192752f552bdf385",
+  "_spec": "@ionic-native-mocks/native-page-transitions",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/native-page-transitions",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

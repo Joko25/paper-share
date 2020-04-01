@@ -1,0 +1,4 @@
+<ng-container *ngIf="timer">
+    <button ion-button *ngIf="timeInSeconds && timeInSeconds > 0" large block clear
+        class="timer-button x-large">{{timer.displayTime}}</button>
+</ng-container>

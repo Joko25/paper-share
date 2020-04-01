@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" baseProfile="basic" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 141.38 45.82" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#5A676F;}
+	.st1{fill:none;stroke:#92B463;stroke-miterlimit:10;}
+	.st2{fill:#92B463;}
+	.st3{fill:#3D5567;}
+	.st4{fill:none;stroke:#3D5567;stroke-miterlimit:10;}
+	.st5{fill:#F2F9FC;}
+	.st6{opacity:0.3;}
+	.st7{fill:#FFFFFF;}
+	.st8{opacity:0.15;clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+	.st9{opacity:0.1;clip-path:url(#SVGID_5_);fill:url(#SVGID_6_);}
+	.st10{fill:#3E5567;}
+	.st11{fill:#4194D0;}
+	.st12{fill-rule:evenodd;clip-rule:evenodd;fill:#4194D0;}
+	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#A4CD5D;}
+	.st14{fill:#B9D87F;stroke:#10415E;stroke-width:0.5;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#4197D2;stroke-linecap:round;stroke-linejoin:round;}
+	.st16{opacity:0.2;}
+	.st17{fill:#4197D2;}
+	.st18{fill:none;stroke:#A6B2BA;stroke-width:0.5;stroke-miterlimit:10;}
+	.st19{fill:none;stroke:#4197D2;stroke-miterlimit:10;}
+	.st20{fill:none;stroke:#133F5D;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st21{opacity:0.75;}
+	.st22{fill:#CEE2AD;}
+	.st23{fill:#D4E8F1;}
+	.st24{fill:#2A82BD;}
+	.st25{fill:#85BEE7;}
+	.st26{opacity:0.5;fill:#FFFFFF;}
+	.st27{fill:#CFE3F2;}
+	.st28{fill:#FFE0BC;}
+	.st29{fill:#FFC99C;}
+	.st30{fill:none;stroke:#133F5D;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st31{opacity:0.05;fill:#10415E;}
+	.st32{fill:#FFE0BC;stroke:#133F5D;stroke-width:0.5;stroke-miterlimit:10;}
+	.st33{fill:#65A9D9;stroke:#133F5D;stroke-width:0.5;stroke-miterlimit:10;}
+	.st34{fill:none;stroke:#133F5D;stroke-width:0.5;stroke-miterlimit:10;}
+	.st35{fill:#65A9D9;}
+	.st36{fill:#BBDA87;}
+	.st37{fill:#A4CD5D;}
+	.st38{fill:#ADD3EB;stroke:#133F5D;stroke-width:0.5;stroke-miterlimit:10;}
+	.st39{fill:#453C36;stroke:#133F5D;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st40{fill:#1B577E;stroke:#10415E;stroke-width:0.5;stroke-miterlimit:10;}
+	.st41{fill:#DFBC9D;stroke:#133F5D;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st42{fill:#DFBC9D;}
+	.st43{fill:#D5A57A;}
+	.st44{fill:#20628E;}
+	.st45{fill:none;stroke:#133F5D;stroke-width:0.5;stroke-linecap:round;}
+	.st46{fill:#1B577E;}
+	.st47{fill:#14415F;}
+	.st48{fill:none;stroke:#85BEE7;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st49{fill:none;stroke:#133F5D;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st50{fill:#E9D1BA;stroke:#10415E;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st51{fill:#ADD3EB;}
+	.st52{fill:#E9D1BA;stroke:#10415E;stroke-width:0.5;}
+	.st53{fill:none;stroke:#10415E;stroke-width:0.5;stroke-miterlimit:10;}
+	.st54{fill:none;stroke:#10415E;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st55{fill:#F7B5AE;}
+	.st56{fill:#E8E8EA;}
+	.st57{fill:#CFD0D4;}
+	.st58{fill:#F6F6F7;}
+	.st59{fill:none;stroke:#10415E;stroke-width:0.5;}
+	.st60{opacity:0.1;fill:#10415E;}
+	.st61{opacity:0.1;fill:#8BBD37;}
+	.st62{fill:none;stroke:#A5CE5E;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st63{fill:none;stroke:#4197D2;stroke-width:3;stroke-miterlimit:10;}
+	.st64{fill:none;stroke:#4197D2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st65{opacity:0.05;clip-path:url(#SVGID_8_);fill:#FFFFFF;}
+	.st66{fill:url(#SVGID_9_);}
+	.st67{opacity:0.05;clip-path:url(#SVGID_11_);fill:#FFFFFF;}
+	.st68{opacity:0.05;clip-path:url(#SVGID_13_);fill:#FFFFFF;}
+	.st69{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;}
+	.st70{opacity:0.6;}
+	.st71{opacity:0.6;fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st72{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st73{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st74{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st75{fill:url(#SVGID_14_);}
+	.st76{opacity:0.65;fill:url(#SVGID_15_);}
+	.st77{fill:url(#SVGID_16_);}
+	.st78{fill:url(#SVGID_17_);}
+	.st79{opacity:0.65;fill:url(#SVGID_18_);}
+	.st80{fill:url(#SVGID_19_);}
+	.st81{fill:#E6F1F9;}
+	.st82{fill:#F9FBFD;}
+	.st83{fill:#CEE4F5;}
+	.st84{fill:#F8DB7B;}
+	.st85{fill:#FBE9B0;}
+	.st86{fill:#D0E2A8;}
+	.st87{fill:#E6EFD1;}
+	.st88{opacity:0.75;fill:#FEFBEF;}
+	.st89{fill:#B5D895;}
+	.st90{fill:#E9E9EB;}
+	.st91{fill:#C0C1C7;}
+	.st92{fill:none;stroke:#C0C1C7;stroke-width:0.5;stroke-miterlimit:10;}
+	.st93{opacity:0.5;fill:#C0C1C7;}
+	.st94{fill:#A5CE5D;}
+	.st95{fill:#FFFFFF;stroke:#133F5D;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st96{fill:#EAD3BC;stroke:#133F5D;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;}
+	.st97{opacity:0.8;fill:#D5E7F1;}
+	.st98{opacity:0.5;fill:#69AACC;}
+	.st99{opacity:0.2;fill:#3E5567;}
+	.st100{fill:#AF8E86;stroke:#133F5D;stroke-width:0.5;stroke-miterlimit:10;}
+	.st101{fill:url(#SVGID_20_);}
+	.st102{opacity:0.65;fill:url(#SVGID_21_);}
+	.st103{fill:url(#SVGID_22_);}
+	.st104{fill:url(#SVGID_23_);}
+	.st105{opacity:0.65;fill:url(#SVGID_24_);}
+	.st106{fill:url(#SVGID_25_);}
+	.st107{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-miterlimit:10;}
+	.st108{opacity:0.15;clip-path:url(#SVGID_27_);fill:url(#SVGID_28_);}
+	.st109{opacity:0.1;clip-path:url(#SVGID_30_);fill:url(#SVGID_31_);}
+	.st110{fill:none;stroke:#4197D2;stroke-width:0.75;stroke-miterlimit:10;}
+	.st111{opacity:0.05;clip-path:url(#SVGID_33_);fill:#FFFFFF;}
+	.st112{fill:url(#SVGID_34_);}
+	.st113{opacity:0.05;clip-path:url(#SVGID_36_);fill:#FFFFFF;}
+	.st114{opacity:0.05;clip-path:url(#SVGID_38_);fill:#FFFFFF;}
+	.st115{fill:none;stroke:#FFFFFF;stroke-width:0.75;stroke-miterlimit:10;}
+	.st116{fill:url(#SVGID_39_);}
+	.st117{opacity:0.65;fill:url(#SVGID_40_);}
+	.st118{fill:url(#SVGID_41_);}
+	.st119{fill:url(#SVGID_42_);}
+	.st120{opacity:0.65;fill:url(#SVGID_43_);}
+	.st121{fill:url(#SVGID_44_);}
+	.st122{fill:#F6FDF1;}
+	.st123{fill:#3D97D2;}
+	.st124{fill:none;stroke:#4196D2;stroke-miterlimit:10;}
+	.st125{fill:#2A83BE;}
+	.st126{fill:none;stroke:#133F5D;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st127{fill:#FFFFFF;stroke:#133F5D;stroke-width:0.5;}
+	.st128{fill:#CECECE;}
+	.st129{fill:#4196D2;}
+	.st130{fill:#E76878;stroke:#133F5D;stroke-width:0.5;}
+	.st131{clip-path:url(#rect815_1_);}
+	.st132{fill:url(#rect8080_1_);}
+	.st133{fill:#F3FAFD;}
+	.st134{fill:none;stroke:#4198D3;stroke-width:1.3052;}
+	.st135{fill:none;stroke:#F1F5F8;stroke-width:1.3018;}
+	.st136{fill:none;stroke:#F1F5F8;stroke-width:1.0995;}
+	.st137{opacity:0.7;clip-path:url(#SVGID_46_);}
+	.st138{opacity:0.15;fill:#FFFFFF;}
+	.st139{opacity:0.1;fill:#FFFFFF;}
+	.st140{fill-rule:evenodd;clip-rule:evenodd;fill:#4196D2;}
+	.st141{fill-rule:evenodd;clip-rule:evenodd;fill:#A6CF5D;}
+	.st142{fill:none;stroke:#D6D6D6;stroke-width:0.159;stroke-opacity:0.9833;}
+	.st143{fill:none;stroke:#D6D6D6;stroke-width:0.1593;stroke-opacity:0.9833;}
+	.st144{fill:none;stroke:#4198D3;stroke-width:0.53;}
+	.st145{opacity:0.5;}
+	.st146{fill:#B4CDDF;}
+	.st147{fill:#E2E7EE;}
+	.st148{fill:url(#rect2546_1_);}
+	.st149{opacity:0.7;clip-path:url(#SVGID_48_);}
+	.st150{fill:#EAEAEA;}
+	.st151{fill:#BEDC9B;}
+	.st152{fill:#B4D890;}
+	.st153{fill:#4198D3;}
+	.st154{fill:#B6D892;}
+	.st155{fill:#F1F2F2;}
+	.st156{fill:#DADCDD;}
+	.st157{fill:#D06060;}
+	.st158{fill:none;stroke:#D6D6D6;stroke-width:0.1323;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.9833;}
+	.st159{fill:none;stroke:#4697D2;stroke-width:0.1323;stroke-linecap:round;stroke-linejoin:round;}
+	.st160{fill:none;stroke:#E4E4E4;}
+	.st161{fill:none;stroke:url(#path6538_1_);}
+	.st162{fill:#C86A8A;}
+	.st163{fill:none;stroke:url(#path6887_1_);}
+	.st164{fill:#4697D2;}
+	.st165{fill:none;}
+	.st166{fill:#D6D6D6;fill-opacity:0;}
+	.st167{fill:none;stroke:url(#path9666_1_);}
+	.st168{fill:none;stroke:url(#path9716_1_);}
+	.st169{fill:url(#rect12539_1_);}
+	.st170{fill:#F1F5F8;}
+	.st171{fill:#B7D565;}
+	.st172{fill:#BAD989;}
+	.st173{fill:#50A0D8;}
+	.st174{fill:url(#circle13032_1_);}
+	.st175{fill:#57A6DB;}
+	.st176{fill:none;stroke:#E7E6E6;stroke-width:0.2646;}
+	.st177{fill:url(#rect14378_1_);}
+	.st178{fill:url(#rect14380_1_);}
+	.st179{fill:url(#rect14384_1_);}
+	.st180{fill:url(#rect14386_1_);}
+	.st181{fill:url(#rect14390_1_);}
+	.st182{fill:url(#rect14392_1_);}
+	.st183{fill:url(#rect14396_1_);}
+	.st184{fill:url(#rect14398_1_);}
+	.st185{fill:url(#rect14402_1_);}
+	.st186{fill:url(#rect14404_1_);}
+	.st187{fill:url(#rect14408_1_);}
+	.st188{fill:url(#rect14410_1_);}
+	.st189{fill:url(#rect14414_1_);}
+	.st190{fill:url(#rect14416_1_);}
+	.st191{fill:url(#rect14420_1_);}
+	.st192{fill:url(#rect14422_1_);}
+	.st193{opacity:0.46;fill:url(#rect15041_1_);}
+	.st194{fill:none;stroke:url(#path15045_1_);stroke-width:3;stroke-linecap:round;}
+	.st195{fill:#FFFFFF;stroke:#4198D3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st196{fill:#AEADAD;}
+	.st197{fill:#FFFFFF;stroke:#96CEEF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+	.st198{fill:#A6B2BA;stroke:#A6B2BA;}
+	.st199{fill:#F1F5F8;stroke:#F1F5F8;}
+	.st200{opacity:0.7;clip-path:url(#SVGID_50_);}
+	.st201{opacity:0.7;clip-path:url(#SVGID_52_);}
+	.st202{fill:url(#SVGID_53_);}
+	.st203{fill:url(#SVGID_54_);}
+	.st204{fill:none;stroke:#3D97D2;stroke-miterlimit:10;}
+	.st205{opacity:0.35;}
+	.st206{opacity:0.45;}
+	.st207{clip-path:url(#SVGID_58_);}
+	.st208{opacity:0.8;}
+	.st209{clip-path:url(#SVGID_62_);}
+	.st210{opacity:0.7;}
+	.st211{opacity:0.15;clip-path:url(#SVGID_64_);}
+	.st212{clip-path:url(#SVGID_66_);fill:#FFFFFF;}
+	.st213{opacity:0.1;clip-path:url(#SVGID_64_);}
+	.st214{clip-path:url(#SVGID_68_);fill:#FFFFFF;}
+	.st215{fill:none;stroke:#4198D3;stroke-linecap:round;stroke-linejoin:round;}
+	.st216{clip-path:url(#rect815_2_);}
+	.st217{fill:url(#rect8080_2_);}
+	.st218{opacity:0.7;clip-path:url(#SVGID_70_);}
+	.st219{fill:url(#rect2546_2_);}
+	.st220{opacity:0.7;clip-path:url(#SVGID_72_);}
+	.st221{fill:none;stroke:url(#path6538_2_);}
+	.st222{fill:none;stroke:url(#path6887_2_);}
+	.st223{fill:none;stroke:url(#path9666_2_);}
+	.st224{fill:none;stroke:url(#path9716_2_);}
+	.st225{fill:url(#rect12539_2_);}
+	.st226{fill:url(#circle13032_2_);}
+	.st227{fill:url(#rect14378_2_);}
+	.st228{fill:url(#rect14380_2_);}
+	.st229{fill:url(#rect14384_2_);}
+	.st230{fill:url(#rect14386_2_);}
+	.st231{fill:url(#rect14390_2_);}
+	.st232{fill:url(#rect14392_2_);}
+	.st233{fill:url(#rect14396_2_);}
+	.st234{fill:url(#rect14398_2_);}
+	.st235{fill:url(#rect14402_2_);}
+	.st236{fill:url(#rect14404_2_);}
+	.st237{fill:url(#rect14408_2_);}
+	.st238{fill:url(#rect14410_2_);}
+	.st239{fill:url(#rect14414_2_);}
+	.st240{fill:url(#rect14416_2_);}
+	.st241{fill:url(#rect14420_2_);}
+	.st242{fill:url(#rect14422_2_);}
+	.st243{opacity:0.46;fill:url(#rect15041_2_);}
+	.st244{fill:none;stroke:url(#path15045_2_);stroke-width:3;stroke-linecap:round;}
+	.st245{opacity:0.7;clip-path:url(#SVGID_74_);}
+	.st246{opacity:0.7;clip-path:url(#SVGID_76_);}
+	.st247{fill:url(#SVGID_77_);}
+	.st248{fill:url(#SVGID_78_);}
+	.st249{clip-path:url(#SVGID_82_);}
+	.st250{clip-path:url(#SVGID_86_);}
+	.st251{opacity:0.15;clip-path:url(#SVGID_88_);}
+	.st252{clip-path:url(#SVGID_90_);fill:#FFFFFF;}
+	.st253{opacity:0.1;clip-path:url(#SVGID_88_);}
+	.st254{clip-path:url(#SVGID_92_);fill:#FFFFFF;}
+	.st255{opacity:0.1;fill-rule:evenodd;clip-rule:evenodd;fill:#4196D2;}
+	.st256{fill:#87BEE2;}
+	.st257{fill:#DBECBE;}
+	.st258{opacity:0.1;clip-path:url(#SVGID_94_);fill:url(#SVGID_95_);}
+	.st259{opacity:0.15;clip-path:url(#SVGID_97_);fill:url(#SVGID_98_);}
+	.st260{opacity:0.05;clip-path:url(#SVGID_100_);fill:#FFFFFF;}
+	.st261{opacity:0.05;clip-path:url(#SVGID_102_);fill:#FFFFFF;}
+</style>
+<g id="Design">
+</g>
+<g id="Tutorial">
+	<g>
+		<g>
+			<path class="st7" d="M68.49,18.86c-0.03-2.11-0.66-3.59-1.87-4.45c-1.22-0.86-2.84-1.27-4.86-1.24h-6.25v19.5h3.02v-7.93h3.57
+				c1.98,0.02,3.54-0.43,4.67-1.36C67.89,22.46,68.47,20.95,68.49,18.86L68.49,18.86z M65.41,18.86c-0.01,1.36-0.34,2.3-0.98,2.82
+				c-0.64,0.52-1.5,0.76-2.58,0.74h-3.32v-6.94h3.17c1.07-0.04,1.95,0.16,2.64,0.6C65.03,16.52,65.38,17.45,65.41,18.86L65.41,18.86
+				z M65.41,18.86"/>
+			<path class="st7" d="M88.63,32.66l-7.37-19.5h-2.66l-7.94,19.5h3.17l2.05-5.52h7.49l1.93,5.52H88.63z M82.62,24.88h-5.89
+				l3.05-8.23L82.62,24.88z M82.62,24.88"/>
+			<path class="st7" d="M105.34,18.86c-0.03-2.11-0.66-3.59-1.87-4.45c-1.21-0.86-2.83-1.27-4.86-1.24h-6.25v19.5h3.02v-7.93h3.56
+				c1.98,0.02,3.54-0.43,4.67-1.36C104.74,22.46,105.32,20.95,105.34,18.86L105.34,18.86z M102.26,18.86
+				c-0.01,1.36-0.34,2.3-0.98,2.82c-0.64,0.52-1.5,0.76-2.58,0.74h-3.32v-6.94h3.17c1.06-0.04,1.95,0.16,2.64,0.6
+				C101.88,16.52,102.23,17.45,102.26,18.86L102.26,18.86z M102.26,18.86"/>
+			<path class="st7" d="M122.05,32.66v-2.32h-8.45v-6.6h7.55v-2.32h-7.55v-5.94h8.18v-2.32h-11.2v19.5H122.05z M122.05,32.66"/>
+			<path class="st7" d="M141.38,32.66l-6.37-8.5c1.93-0.24,3.29-0.87,4.07-1.91c0.78-1.04,1.15-2.26,1.13-3.67
+				c-0.07-2.13-0.76-3.57-2.05-4.34c-1.29-0.77-2.75-1.13-4.38-1.09h-6.7v19.5h3.02v-8.41h1.42l6.22,8.41H141.38z M137.12,18.59
+				c0.01,0.97-0.23,1.77-0.72,2.39c-0.5,0.62-1.31,0.94-2.45,0.96h-3.86v-6.45h3.83c1.06,0.01,1.85,0.28,2.39,0.82
+				C136.85,16.83,137.12,17.6,137.12,18.59L137.12,18.59z M137.12,18.59"/>
+		</g>
+		<g>
+			<g>
+				<path class="st7" d="M45.01,22.91c0,12.21-9.9,22.11-22.11,22.11c-12.21,0-22.11-9.9-22.11-22.11C0.8,10.7,10.7,0.8,22.91,0.8
+					C35.12,0.8,45.01,10.7,45.01,22.91L45.01,22.91z M45.01,22.91"/>
+			</g>
+			<g>
+				<path class="st11" d="M22.91,45.82C10.28,45.82,0,35.54,0,22.91C0,10.28,10.28,0,22.91,0c12.63,0,22.91,10.28,22.91,22.91
+					C45.82,35.54,35.54,45.82,22.91,45.82z M22.91,1.6C11.16,1.6,1.6,11.16,1.6,22.91c0,11.75,9.56,21.31,21.31,21.31
+					c11.75,0,21.31-9.56,21.31-21.31C44.22,11.16,34.66,1.6,22.91,1.6z"/>
+			</g>
+			<g>
+				<path class="st12" d="M20.62,36.33c-3.73-3-5.99-7.79-5.9-12.6c0.02-1.97,0.42-3.93,1.34-5.63c0.91-1.7,2.37-3.11,4.14-3.8
+					c1.95-0.76,4.26-0.57,6.04,0.54c0.9,0.55,1.66,1.31,2.21,2.22c0.54,0.91,0.86,1.95,0.91,3.01c0.07,2-0.85,4.02-2.36,5.4
+					c-1.51,1.38-3.57,2.13-5.65,2.18c-2.42,0.07-4.88-0.81-6.65-2.48c-1.77-1.66-2.8-4.12-2.66-6.55c0.07-1.35,0.49-2.68,1.2-3.85
+					c0.7-1.17,1.68-2.17,2.82-2.93c2.3-1.51,5.21-1.99,7.93-1.52c3.63,0.64,6.94,2.96,8.76,6.18c-1.79-3.23-5.09-5.61-8.74-6.28
+					c-2.74-0.51-5.7-0.06-8.06,1.45c-1.19,0.75-2.22,1.75-2.98,2.95c-0.76,1.19-1.24,2.57-1.35,3.99c-0.19,2.56,0.87,5.16,2.72,6.95
+					c1.85,1.79,4.44,2.76,7.02,2.73c2.21-0.02,4.44-0.78,6.12-2.26c1.68-1.48,2.76-3.69,2.71-5.97c-0.02-1.2-0.34-2.4-0.93-3.46
+					c-0.59-1.05-1.44-1.96-2.46-2.63c-2.05-1.32-4.72-1.58-7.01-0.73c-2.07,0.77-3.76,2.37-4.82,4.27c-1.07,1.9-1.54,4.07-1.6,6.2
+					c-0.12,5.22,2.28,10.45,6.34,13.76L20.62,36.33z M20.62,36.33"/>
+			</g>
+			<g>
+				<path class="st11" d="M19.75,37.92l-0.25-0.2c-3.91-3.19-6.32-8.11-6.46-13.17c-1.26-1.75-1.89-3.91-1.74-5.96
+					c0.11-1.45,0.6-2.88,1.39-4.14c0.77-1.21,1.83-2.26,3.08-3.04c1.74-1.11,3.83-1.7,6.05-1.7c0.75,0,1.5,0.07,2.24,0.21
+					c3.76,0.69,7.11,3.1,8.97,6.44l-0.56,0.31c-1.78-3.15-4.98-5.4-8.54-6.02c-0.65-0.11-1.31-0.17-1.96-0.17
+					c-2.12,0-4.1,0.57-5.74,1.64c-1.12,0.74-2.06,1.72-2.73,2.83c-0.68,1.14-1.08,2.42-1.15,3.71c-0.08,1.28,0.19,2.61,0.77,3.82
+					c0.2-1.91,0.72-3.63,1.56-5.12c1.17-2.09,2.95-3.65,4.99-4.41c0.91-0.34,1.88-0.51,2.87-0.51c1.6,0,3.13,0.44,4.42,1.27
+					c1.07,0.7,1.96,1.65,2.57,2.74c0.62,1.11,0.96,2.36,0.97,3.61c0.05,2.29-1.01,4.62-2.82,6.21c-1.66,1.46-3.97,2.32-6.33,2.35
+					h-0.13c-2.12,0-4.23-0.66-5.93-1.85c0.68,3.67,2.67,7.03,5.53,9.33l0.25,0.2L19.75,37.92z M13.73,25.39
+					c0.36,4.46,2.53,8.73,5.93,11.62l0.51-0.64c-3.02-2.53-5.06-6.22-5.62-10.19l0,0c-0.15-0.13-0.29-0.26-0.44-0.4
+					C13.98,25.66,13.85,25.53,13.73,25.39z M22.67,13.53c1.35,0,2.64,0.36,3.74,1.04c0.95,0.58,1.75,1.38,2.31,2.33
+					c0.58,0.96,0.91,2.05,0.96,3.16c0.08,2.06-0.85,4.17-2.46,5.65c-1.31,1.19-3.08,1.97-4.96,2.2c1.89-0.2,3.68-0.95,5.02-2.13
+					c1.67-1.47,2.64-3.61,2.6-5.72c-0.02-1.15-0.32-2.29-0.89-3.31c-0.56-1.01-1.38-1.88-2.36-2.52c-1.19-0.76-2.59-1.17-4.07-1.17
+					c-0.92,0-1.81,0.16-2.65,0.47c-1.9,0.71-3.56,2.17-4.66,4.13c-0.94,1.66-1.46,3.62-1.55,5.82c0.22,0.33,0.45,0.64,0.71,0.93
+					c-0.01-0.23-0.01-0.46,0-0.69c0.03-2.15,0.5-4.15,1.38-5.77c1-1.85,2.53-3.26,4.3-3.95C20.9,13.69,21.77,13.53,22.67,13.53z
+					 M15.08,25.09c1.66,1.48,3.95,2.3,6.26,2.24c2.05-0.06,4.04-0.82,5.44-2.1c1.48-1.35,2.33-3.28,2.26-5.15
+					c-0.04-1-0.34-1.99-0.86-2.86c-0.51-0.85-1.24-1.58-2.1-2.11c-1-0.62-2.17-0.95-3.4-0.95c-0.82,0-1.61,0.15-2.36,0.43
+					c-1.61,0.63-3.06,1.96-3.97,3.65c-0.83,1.53-1.28,3.43-1.3,5.48C15.03,24.19,15.04,24.64,15.08,25.09z"/>
+			</g>
+			<g>
+				<path class="st13" d="M40.83,17.34l-6.72,1.44l-1.4-2.93L40.83,17.34z M40.83,17.34"/>
+			</g>
+			<g>
+				<path class="st13" d="M32.65,15.89l-1.32,2.26l2.21-0.34L32.65,15.89z M32.65,15.89"/>
+			</g>
+			<g>
+				<path class="st13" d="M32.56,15.59l-1.31-2.1l9.58,3.8L32.56,15.59z M32.56,15.59"/>
+			</g>
+			<g>
+				<path class="st12" d="M13.35,23.88c0.38,0.6,0.74,1.26,1.51,1.61l-0.09-0.77c-0.46-0.62-0.75-0.79-1.05-1.25
+					c-0.08-0.12-0.35-0.44-0.35-0.44C13.26,23.31,13.35,23.6,13.35,23.88L13.35,23.88z M13.35,23.88"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

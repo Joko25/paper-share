@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/paypal",
+  "_id": "@ionic-native-mocks/paypal@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-MebycvzwoIsjg9JV4RysHiznt2YJMFvS23iUg3/puAX2ZCR6zgsBSyhboFN0MLHrNemWzXgRf8pjh++jFpytxA==",
+  "_location": "/@ionic-native-mocks/paypal",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/paypal",
+    "name": "@ionic-native-mocks/paypal",
+    "escapedName": "@ionic-native-mocks%2fpaypal",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/paypal/-/paypal-2.0.6.tgz",
+  "_shasum": "5866815807449b020874c2d043c5219d9e012b02",
+  "_spec": "@ionic-native-mocks/paypal",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/paypal",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

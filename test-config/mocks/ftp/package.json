@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/ftp",
+  "_id": "@ionic-native-mocks/ftp@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-WFLzSXTi6qvXUKqUlVgCbBLffhrSSEHiCnJZth8B1ytP5hnGjfULPXjgTDD2JOVvXA6FwxYtRTUZbyGtQnugng==",
+  "_location": "/@ionic-native-mocks/ftp",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/ftp",
+    "name": "@ionic-native-mocks/ftp",
+    "escapedName": "@ionic-native-mocks%2fftp",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/ftp/-/ftp-2.0.6.tgz",
+  "_shasum": "5844d97951f2cabf31a09675f26e551c64f7c639",
+  "_spec": "@ionic-native-mocks/ftp",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/ftp",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

@@ -1,0 +1,19 @@
+<div class="btn-close-popeover">
+    <ion-icon
+        ios="ios-close"
+        md="md-close"
+        class="remove-invoice"
+        (click)="close()"
+    ></ion-icon>
+</div>
+<ion-list class="inv-popover remove-margin --padding-without-card">
+    <div *ngFor="let menu of list_menu">
+        <button
+            ion-item
+            (click)="openPage(menu)"
+        >
+            <img src="{{menu.img}}">
+            {{menu.text}}
+        </button>
+    </div>
+</ion-list>

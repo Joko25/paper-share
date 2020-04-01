@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/user-agent",
+  "_id": "@ionic-native-mocks/user-agent@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-+rS/ETHMH8waYD3QqreihFZIo6Wu/3OCpd6bB0M79ZIOstR3LpuGdj0jcoaOY0O/RoM42sYrt1y8Qihx4zITnQ==",
+  "_location": "/@ionic-native-mocks/user-agent",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/user-agent",
+    "name": "@ionic-native-mocks/user-agent",
+    "escapedName": "@ionic-native-mocks%2fuser-agent",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/user-agent/-/user-agent-2.0.6.tgz",
+  "_shasum": "419c5eee5fd75f757e98dfed1a27a2435b2ef082",
+  "_spec": "@ionic-native-mocks/user-agent",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/user-agent",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/power-management",
+  "_id": "@ionic-native-mocks/power-management@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-xl/H9ZW7Z/rgIESf+ks36mnZ0ltp7/1BkRwddgWWHqEhVn/mnpSPlBLPPCo5H9k0UWnQbupKaRNouVAyCnUEdw==",
+  "_location": "/@ionic-native-mocks/power-management",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/power-management",
+    "name": "@ionic-native-mocks/power-management",
+    "escapedName": "@ionic-native-mocks%2fpower-management",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/power-management/-/power-management-2.0.6.tgz",
+  "_shasum": "1ec8856c383a1f0397f6df65d215afbf83deb01b",
+  "_spec": "@ionic-native-mocks/power-management",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/power-management",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

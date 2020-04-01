@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/speech-recognition",
+  "_id": "@ionic-native-mocks/speech-recognition@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-xKeF9WQEpWN7gDuI5paJR8ZqDg59sOqzz4i9AfQCNhWmYfNpcZamwLTj/lwAODfbBqKZO9/hf2RiZDl68/c2xA==",
+  "_location": "/@ionic-native-mocks/speech-recognition",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/speech-recognition",
+    "name": "@ionic-native-mocks/speech-recognition",
+    "escapedName": "@ionic-native-mocks%2fspeech-recognition",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/speech-recognition/-/speech-recognition-2.0.6.tgz",
+  "_shasum": "e1633ef1f3cb02e43dc853a0a353c010e61b85f7",
+  "_spec": "@ionic-native-mocks/speech-recognition",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/speech-recognition",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

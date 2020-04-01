@@ -1,0 +1,41 @@
+<ng-progress [positionUsing]="'marginLeft'" [color]="'#b2ed7f'" [minimum]="0.15" [maximum]="1"
+    [direction]="'leftToRightIncreased'" [ease]="'linear'"></ng-progress>
+<ion-menu [content]="content" persistent="true" id="disabled" (ionOpen)="menuOpened()" (ionClose)="menuClosed()"
+    class="paper-menu" [swipeEnabled]="false">
+    <ion-content class="--menu-content">
+        <div class="logo-left">
+            <span>
+                <img src="assets/img/paperlogowhite.svg" alt="logo" class="--logo-lg">
+            </span>
+            <span class="">
+                <img src="assets/img/gradient-header.svg" alt="logo" class="--gradient-header">
+            </span>
+
+        </div>
+        <ion-list class="list-menu" style="margin-top: 20px">
+            
+        </ion-list>
+
+        <ion-list class="--list-menu">
+            <button menuClose ion-item (click)="feedBackOpen()" class="--menu-item-label">
+                <h2>
+                    <img src="assets/img/side-menu/support.svg" class="--paper-icon-item">
+                    Support Center
+                </h2>
+
+            </button>
+            <button menuClose ion-item (click)="logout()" class="--menu-item-label">
+                <h2>
+                    <img src="assets/img/side-menu/logout.svg" class="--paper-icon-item">
+                    Log out
+                </h2>
+
+            </button>
+        </ion-list>
+
+    </ion-content>
+
+</ion-menu>
+
+<!-- Disable swipe-to-go-back because it's poor UX to combine STGB with side menus -->
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>

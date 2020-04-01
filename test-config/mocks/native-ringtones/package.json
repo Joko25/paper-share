@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/native-ringtones",
+  "_id": "@ionic-native-mocks/native-ringtones@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-ZXnI0PWcDavA91Js9HvuY68mOUa7gHAUDEkxrMql0gM2TneFojKKDJwo3pygfDA6ZL+0UjdzeJV6oL4lNooG7A==",
+  "_location": "/@ionic-native-mocks/native-ringtones",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/native-ringtones",
+    "name": "@ionic-native-mocks/native-ringtones",
+    "escapedName": "@ionic-native-mocks%2fnative-ringtones",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/native-ringtones/-/native-ringtones-2.0.6.tgz",
+  "_shasum": "4f5deb91657930f28d064a9d35b14b4ac6deda9d",
+  "_spec": "@ionic-native-mocks/native-ringtones",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/native-ringtones",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

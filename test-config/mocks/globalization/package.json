@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/globalization",
+  "_id": "@ionic-native-mocks/globalization@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-YfWfJDLeBgqZq38Xrht6kcOigmM7yL63DoC8WWeiwmFIxMTjR8Q/f0OKSBOxoI30UnDxQzBj3F3XQ100s6E6jw==",
+  "_location": "/@ionic-native-mocks/globalization",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/globalization",
+    "name": "@ionic-native-mocks/globalization",
+    "escapedName": "@ionic-native-mocks%2fglobalization",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/globalization/-/globalization-2.0.6.tgz",
+  "_shasum": "1618ef7f52f6bca260b204659fea9d29f74c7b63",
+  "_spec": "@ionic-native-mocks/globalization",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/globalization",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

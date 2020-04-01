@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/toast",
+  "_id": "@ionic-native-mocks/toast@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-C6B3DMqWUCExCKFfFmEH9hf6D0pPZV3NEiCriBHDRLmXyaMhP5kk8UTQHJYk0u4OJUMwhHFLAkQERmsFi3qwVw==",
+  "_location": "/@ionic-native-mocks/toast",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/toast",
+    "name": "@ionic-native-mocks/toast",
+    "escapedName": "@ionic-native-mocks%2ftoast",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/toast/-/toast-2.0.6.tgz",
+  "_shasum": "0b594c8f9963b1dc1883fb172beffbc815321457",
+  "_spec": "@ionic-native-mocks/toast",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/toast",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

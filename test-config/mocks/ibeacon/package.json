@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/ibeacon",
+  "_id": "@ionic-native-mocks/ibeacon@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-1ZNvuu65rAbRvFokUUuT8NQVqZWwi+V/f/wtOCFDe88aYg4vZ2h+Be2lfq7XC9rFmHOY51rtx2xosvQmZPE5oQ==",
+  "_location": "/@ionic-native-mocks/ibeacon",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/ibeacon",
+    "name": "@ionic-native-mocks/ibeacon",
+    "escapedName": "@ionic-native-mocks%2fibeacon",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/ibeacon/-/ibeacon-2.0.6.tgz",
+  "_shasum": "e2813d6ca61e553491846648b0cac21d5f73b5b9",
+  "_spec": "@ionic-native-mocks/ibeacon",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/ibeacon",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/keyboard",
+  "_id": "@ionic-native-mocks/keyboard@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-inRZc61rn4iAj/368duUPRGM7iALlTPMHF2LrtTQ/hrJ2Wc5DgpWv/E6CQLcZ+PbcKXuzCDFt5DoD1RzLSI8Jg==",
+  "_location": "/@ionic-native-mocks/keyboard",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/keyboard",
+    "name": "@ionic-native-mocks/keyboard",
+    "escapedName": "@ionic-native-mocks%2fkeyboard",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/keyboard/-/keyboard-2.0.6.tgz",
+  "_shasum": "9c3f21923f5e2431e177add7d9d9160e9e64e44e",
+  "_spec": "@ionic-native-mocks/keyboard",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/keyboard",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

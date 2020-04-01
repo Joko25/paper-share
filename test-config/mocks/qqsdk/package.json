@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/qqsdk",
+  "_id": "@ionic-native-mocks/qqsdk@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-vpRKVlsywJ5Vc8NX4EOWC4N/GqAhDRzfDr9jUc1Mh4i4qoe2n0ezJ6ZlRU0fACD/Q3xtJanaB+GDtayx+pYOMQ==",
+  "_location": "/@ionic-native-mocks/qqsdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/qqsdk",
+    "name": "@ionic-native-mocks/qqsdk",
+    "escapedName": "@ionic-native-mocks%2fqqsdk",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/qqsdk/-/qqsdk-2.0.6.tgz",
+  "_shasum": "acf6dc8ffd4663069cdc1a8680277b18a654796b",
+  "_spec": "@ionic-native-mocks/qqsdk",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/qqsdk",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

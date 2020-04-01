@@ -1,0 +1,77 @@
+<ion-header class="--chevron-back-button --paper-background-gradient">
+    <ion-toolbar>
+        <ion-title>
+            <ion-icon name="md-chatboxes"></ion-icon>
+            Feedback
+        </ion-title>
+    </ion-toolbar>
+</ion-header>
+<ion-content>
+    <div padding>
+        <form [formGroup]="reportForm">
+            <ion-row>
+                <ion-col>
+                    <ion-item [ngClass]="!reportForm.controls.name.valid  && (reportForm.controls.name.dirty || isSubmitted) ? 'item-error' : ''">
+                        <ion-label stacked>Nama</ion-label>
+                        <ion-input
+                            type="text"
+                            formControlName="name"
+                        ></ion-input>
+                    </ion-item>
+                    <ion-item
+                        class="item-required"
+                        *ngIf="!reportForm.controls.name.valid  && (reportForm.controls.name.dirty || isSubmitted)"
+                    >
+                    </ion-item>
+                </ion-col>
+            </ion-row>
+            <ion-row>
+                <ion-col>
+                    <ion-item [ngClass]="!reportForm.controls.phone.valid  && (reportForm.controls.phone.dirty || isSubmitted) ? 'item-error' : ''">
+                        <ion-label stacked>Telp</ion-label>
+                        <ion-input
+                            type="number"
+                            formControlName="phone"
+                        ></ion-input>
+                    </ion-item>
+                    <ion-item
+                        class="item-required"
+                        *ngIf="!reportForm.controls.phone.valid  && (reportForm.controls.phone.dirty || isSubmitted)"
+                    >
+                    </ion-item>
+                </ion-col>
+            </ion-row>
+            <ion-row>
+                <ion-col>
+                    <ion-item [ngClass]="!reportForm.controls.report.valid  && (reportForm.controls.report.dirty || isSubmitted) ? 'item-error' : ''">
+                        <ion-label stacked>Report</ion-label>
+                        <ion-textarea
+                            rows="7"
+                            formControlName="report"
+                        ></ion-textarea>
+                    </ion-item>
+                    <ion-item
+                        class="item-required"
+                        *ngIf="!reportForm.controls.report.valid  && (reportForm.controls.report.dirty || isSubmitted)"
+                    >
+                    </ion-item>
+                </ion-col>
+            </ion-row>
+        </form>
+    </div>
+</ion-content>
+
+<ion-footer class="invoice-footer --paper-background-blue" no-border [hidden]="isLoading">
+    <ion-row>
+        <ion-col col-6 class="--content-center">
+            <button ion-button (click)="close()" class="paper-button --paper-background-disable --remove-box-shadow">
+                Batal
+            </button>
+        </ion-col>
+        <ion-col col-6 class="--content-center">
+            <button ion-button (click)="send(reportForm)" class="paper-button --paper-background-green --remove-box-shadow">
+                Kirim
+            </button>
+        </ion-col>
+    </ion-row>
+</ion-footer>

@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/file-chooser",
+  "_id": "@ionic-native-mocks/file-chooser@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-FmMZjEW72wN15GjTz3t5Ob0y8IRJR+OJUVRA42EYkqAxpemtK3JNU9x362o8+OoQ5UBtC4d/w8YEWi9zLWQhIA==",
+  "_location": "/@ionic-native-mocks/file-chooser",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/file-chooser",
+    "name": "@ionic-native-mocks/file-chooser",
+    "escapedName": "@ionic-native-mocks%2ffile-chooser",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/file-chooser/-/file-chooser-2.0.6.tgz",
+  "_shasum": "6de3e22e4843b02295d883214347207e7a5c604e",
+  "_spec": "@ionic-native-mocks/file-chooser",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/file-chooser",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

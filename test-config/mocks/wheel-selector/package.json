@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/wheel-selector",
+  "_id": "@ionic-native-mocks/wheel-selector@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-DrjQdkqJgOehJGZkPDEe+bSrsY+E53s2YalX15Q34dorWwpcme9MckOfn6ojWyQD+kbhy+lVbfbhKcJUQSxLyA==",
+  "_location": "/@ionic-native-mocks/wheel-selector",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/wheel-selector",
+    "name": "@ionic-native-mocks/wheel-selector",
+    "escapedName": "@ionic-native-mocks%2fwheel-selector",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/wheel-selector/-/wheel-selector-2.0.6.tgz",
+  "_shasum": "f174292218af569d9e966455043f4c8d897f93b3",
+  "_spec": "@ionic-native-mocks/wheel-selector",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/wheel-selector",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

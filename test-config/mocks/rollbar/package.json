@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/rollbar",
+  "_id": "@ionic-native-mocks/rollbar@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-5uC+bB0Ra/+02gJxOkTmMVjXGEC5Sb/DEoU5Jr9cLglDWy0xGXOJVl3ztkty06GnUjncoEwRkUSfaLJIfmHCKw==",
+  "_location": "/@ionic-native-mocks/rollbar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/rollbar",
+    "name": "@ionic-native-mocks/rollbar",
+    "escapedName": "@ionic-native-mocks%2frollbar",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/rollbar/-/rollbar-2.0.6.tgz",
+  "_shasum": "4e7b63e1d4bef89780f4639170cc96c7b85eb7a9",
+  "_spec": "@ionic-native-mocks/rollbar",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/rollbar",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

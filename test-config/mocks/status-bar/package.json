@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/status-bar",
+  "_id": "@ionic-native-mocks/status-bar@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-Rao1LL1f9YR/4gqlRu+gaoRpuNW3i1ouicF7LT6sJffIem3XlgqxMNkuDhoXORoHtnyFr8mZ82Xhbt2zVkSY+w==",
+  "_location": "/@ionic-native-mocks/status-bar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/status-bar",
+    "name": "@ionic-native-mocks/status-bar",
+    "escapedName": "@ionic-native-mocks%2fstatus-bar",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/status-bar/-/status-bar-2.0.6.tgz",
+  "_shasum": "f6420c3ef5c444df9e76ebfc399ef027b2a1348b",
+  "_spec": "@ionic-native-mocks/status-bar",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/status-bar",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

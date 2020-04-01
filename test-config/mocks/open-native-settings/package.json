@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/open-native-settings",
+  "_id": "@ionic-native-mocks/open-native-settings@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-eAXCGMf1Iyyh3YdgwAENC65puvb61xICLkYaKyXeb8tQDzPRs6axHvsI9psPxhXyM+OCFZzd4Pa15CWcY2Ma4Q==",
+  "_location": "/@ionic-native-mocks/open-native-settings",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/open-native-settings",
+    "name": "@ionic-native-mocks/open-native-settings",
+    "escapedName": "@ionic-native-mocks%2fopen-native-settings",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/open-native-settings/-/open-native-settings-2.0.6.tgz",
+  "_shasum": "ae4384d79e7431500f7dae451bedf7d989a8cde7",
+  "_spec": "@ionic-native-mocks/open-native-settings",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/open-native-settings",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

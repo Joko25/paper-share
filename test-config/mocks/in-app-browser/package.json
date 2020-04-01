@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/in-app-browser",
+  "_id": "@ionic-native-mocks/in-app-browser@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-WiHYZ8TSc4gbulhEK0sDvtJrRI9sc8ooTKw8C7U2GfXfS5INg1Lk90yBolCJx2g4klgVe1s0V5X8dLZs6J4yoQ==",
+  "_location": "/@ionic-native-mocks/in-app-browser",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/in-app-browser",
+    "name": "@ionic-native-mocks/in-app-browser",
+    "escapedName": "@ionic-native-mocks%2fin-app-browser",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/in-app-browser/-/in-app-browser-2.0.6.tgz",
+  "_shasum": "d17733f3ceba34a1597893c96bf7cd1e26cfec76",
+  "_spec": "@ionic-native-mocks/in-app-browser",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/in-app-browser",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

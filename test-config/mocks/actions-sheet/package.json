@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/actions-sheet",
+  "_id": "@ionic-native-mocks/actions-sheet@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-1iQPWMIhm27CD5f2pGffp3eE8USXpQQ+uQYNoQHOcl8kbT2bdJxfWz8dxOglnRCf2mcyJi78kKG6J1J1MlRCaA==",
+  "_location": "/@ionic-native-mocks/actions-sheet",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/actions-sheet",
+    "name": "@ionic-native-mocks/actions-sheet",
+    "escapedName": "@ionic-native-mocks%2factions-sheet",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/actions-sheet/-/actions-sheet-2.0.6.tgz",
+  "_shasum": "049016dbb7dc298c3faeb6fad095f665f2082c80",
+  "_spec": "@ionic-native-mocks/actions-sheet",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/actions-sheet",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

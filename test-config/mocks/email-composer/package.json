@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/email-composer",
+  "_id": "@ionic-native-mocks/email-composer@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-6VX13tWNCUllLgmYgShQja/I5Vmf9cHpPaHY/ZmGDyZSVYNvhAB64K/qG4QIEsyWEtbDDf63UEN3NFwutA8rEA==",
+  "_location": "/@ionic-native-mocks/email-composer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/email-composer",
+    "name": "@ionic-native-mocks/email-composer",
+    "escapedName": "@ionic-native-mocks%2femail-composer",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/email-composer/-/email-composer-2.0.6.tgz",
+  "_shasum": "2f35edb4bf0aebbe2f2ae7965047ef8a42cecc73",
+  "_spec": "@ionic-native-mocks/email-composer",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/email-composer",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

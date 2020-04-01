@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/native-audio",
+  "_id": "@ionic-native-mocks/native-audio@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-tVZvs+odf+MSuuocHX8UO7iDYSf2IYCWbxavFTUSb0woNFkCJqosZbzh4pXhuA7tCHSxejdqrODJn3HuXclmNQ==",
+  "_location": "/@ionic-native-mocks/native-audio",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/native-audio",
+    "name": "@ionic-native-mocks/native-audio",
+    "escapedName": "@ionic-native-mocks%2fnative-audio",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/native-audio/-/native-audio-2.0.6.tgz",
+  "_shasum": "d2d4cd08c9d8ea7672bfee8450c082c0e7d4f310",
+  "_spec": "@ionic-native-mocks/native-audio",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/native-audio",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

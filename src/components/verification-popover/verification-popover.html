@@ -1,0 +1,21 @@
+<!-- Generated template for the VerificationPopoverComponent component -->
+<div class="popover-container">
+    <div class="btn-close-popeover" style="padding:0">
+        <ion-icon ios="ios-close" md="md-close" class="remove-invoice" (click)="close()"></ion-icon>
+    </div>
+    <div class="popover-header">
+        <h1>{{title}}</h1>
+    </div>
+    <div class="popover-body">
+        <p [innerHTML]="content1"></p>
+        <p [innerHTML]="content2"></p>
+        <div class="action-button">
+            <button (click)="validate()" ion-button class="paper-button --paper-background-green --remove-box-shadow">
+                <span style="text-transform: capitalize; ">Validasi Sekarang</span>
+            </button>
+        </div>
+    </div>
+    <div class="popover-footer">
+        <p [innerHTML]="footer"></p>
+    </div>
+</div>

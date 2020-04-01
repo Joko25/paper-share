@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/sms",
+  "_id": "@ionic-native-mocks/sms@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-3iV4COuMxGsTCCWfVq5XjqfTmPWkdnbVCAeT5y2c9i+qCyp2DcZCxm/nuu3BuypKBTQnS37eppA8Lsr0soRxpg==",
+  "_location": "/@ionic-native-mocks/sms",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/sms",
+    "name": "@ionic-native-mocks/sms",
+    "escapedName": "@ionic-native-mocks%2fsms",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/sms/-/sms-2.0.6.tgz",
+  "_shasum": "4b8e75a6f7a85e796f556ca12c2a853c65230763",
+  "_spec": "@ionic-native-mocks/sms",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/sms",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

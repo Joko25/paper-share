@@ -1,0 +1,24 @@
+verification-popover {
+  .popover-container {
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: "Lato";
+    color: #3e5568;
+    padding: 15px;
+    font-size: 12px;
+    flex-direction: column;
+    .popover-header {
+      h1 {
+        font-size: 14px;
+        font-weight: 900;
+      }
+    }
+    .popover-footer {
+      p {
+        font-size: 11px;
+      }
+    }
+  }
+}

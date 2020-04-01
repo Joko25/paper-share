@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/onesignal",
+  "_id": "@ionic-native-mocks/onesignal@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-+Q9Fn0zYmokXxwYgLvd8MqzqAcX2nOAMseGF1TkSf5eXpic5Md20f6BjVf3XD/+pJH3fCLVf3PU6ZHntO6MLDg==",
+  "_location": "/@ionic-native-mocks/onesignal",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/onesignal",
+    "name": "@ionic-native-mocks/onesignal",
+    "escapedName": "@ionic-native-mocks%2fonesignal",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/onesignal/-/onesignal-2.0.6.tgz",
+  "_shasum": "a5edea7509b9c1088e43756159b37bfa4564044e",
+  "_spec": "@ionic-native-mocks/onesignal",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/onesignal",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

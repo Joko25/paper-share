@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/instagram",
+  "_id": "@ionic-native-mocks/instagram@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-d/+Lax2/7w+GxbzuwQTDTCdZfQ0lLl1d7uAwa1o8Wd3QJ3k9uLQFOpyr17xiPJCA90Na92OyL4FY7D+LcrCSFQ==",
+  "_location": "/@ionic-native-mocks/instagram",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/instagram",
+    "name": "@ionic-native-mocks/instagram",
+    "escapedName": "@ionic-native-mocks%2finstagram",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/instagram/-/instagram-2.0.6.tgz",
+  "_shasum": "320616cde21957511d2e7842681afce9fa419aa5",
+  "_spec": "@ionic-native-mocks/instagram",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/instagram",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

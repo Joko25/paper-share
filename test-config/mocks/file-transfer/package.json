@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/file-transfer",
+  "_id": "@ionic-native-mocks/file-transfer@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-t4kGCYY4Pr6QAw0mZLw5Bssc1JS5NNi/YP38lCrvhRHtvgPb5kl/LO/aqSL92MMR2S6dfpxI6344cTZxQOz7mQ==",
+  "_location": "/@ionic-native-mocks/file-transfer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/file-transfer",
+    "name": "@ionic-native-mocks/file-transfer",
+    "escapedName": "@ionic-native-mocks%2ffile-transfer",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/file-transfer/-/file-transfer-2.0.6.tgz",
+  "_shasum": "788183a161023d83f1ae07caa4572d47b4400609",
+  "_spec": "@ionic-native-mocks/file-transfer",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/file-transfer",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

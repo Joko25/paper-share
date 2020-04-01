@@ -1,0 +1,19 @@
+<div #styler>
+
+</div>
+
+<div #editor contenteditable="true" class="maineditor" tappable [attr.data-placeholder-text]="getPlaceholderText()">
+</div>
+
+<!-- https://developer.mozilla.org/en-US/docs/Web/API/Document/execCommand -->
+<div #decorate class="decorator">
+    <button [ngClass]="{'active':bold}" data-command="bold"><strong>B</strong></button>
+    <button [ngClass]="{'active':italic}" data-command="italic"><i>I</i></button>
+    <button [ngClass]="{'active':underline}" data-command="underline"><u>U</u></button> &nbsp;&nbsp;
+    <button [ngClass]="{'active':h1}" data-command="formatBlock|<h1>">H1</button>
+    <button [ngClass]="{'active':h2}" data-command="formatBlock|<h2>">H2</button>
+    <button [ngClass]="{'active':normal}" data-command="formatBlock|<p>">Normal</button> &nbsp;&nbsp;
+    <button [ngClass]="{'active':numbering}" data-command="insertOrderedList"><img [src]="img_numbering"></button>
+    <button [ngClass]="{'active':bullet}" data-command="insertUnorderedList"><img [src]="img_bullet"></button>
+
+</div>

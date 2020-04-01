@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/estimote-beacons",
+  "_id": "@ionic-native-mocks/estimote-beacons@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-ZpakmzQ4BT/KQUHh7eositdwtIbtis2hT3SfLWXTN1+xHqL7ogQg7ZcyLWB7L5gusvFBvxn6zgunJ31ykVM/ew==",
+  "_location": "/@ionic-native-mocks/estimote-beacons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/estimote-beacons",
+    "name": "@ionic-native-mocks/estimote-beacons",
+    "escapedName": "@ionic-native-mocks%2festimote-beacons",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/estimote-beacons/-/estimote-beacons-2.0.6.tgz",
+  "_shasum": "b81ed1d9f17ace906fce68de96efe0299d4ff3ad",
+  "_spec": "@ionic-native-mocks/estimote-beacons",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/estimote-beacons",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

@@ -1,0 +1,63 @@
+// YS:
+client-pop-over.html buat apa?
+environment.staging di services rawan problem
+loadInvoices() di client service buat apa ya?
+resize() kayanya ada better way to do. This one seems hacky
+Create Client Error dari Server belum ada notification
+Create Client Front end Validation belum ada sepertinya
+Edit Client Error dari Server belum ada notifications
+Validators Pattern on Name, Might need to allow number, so alphanumeric
+Again resize needs to be reviewed, plus if later used needs to be put into service or helpers functions
+Expense Server side validation not exist
+Add client in Invoice / There are two button that call saveClient() with different argument structures padahal di TS only exist saveClient(client)
+Add Client needs to be changed to Add Product in Invoices
+Bad naming in add-from-product. saveClient(product)
+// Rest of invoice parts pending after pull from Sebastian
+Should be log out instead of log in in the menu
+Belum ada validation whatsoever di payment
+Popover Edit Payment, kalau go back masih ada popovernya
+
+
+// dashboard
+// report laba rugi
+// report invoice
+
+
+adb tcpip 5555
+adb connect 192.168.1.177:5555
+
+payment add invoice total
+expense ditambahil default date today
+edit rp
+
+Dashboard
+Partner
+Invoice
+- Sales Invoice
+- Purchase Invoice
+Order
+- Sales Order
+- Purchase Order
+Payment
+- Receive Payment
+- Send Payment
+Product
+- Product
+- Product Category
+Finance
+- Dashboard
+- Transaction
+Inventory
+- Dashboard
+- Delivery Order
+- Goods Receipt
+- Stock Document
+- Location
+Accounting
+- Dashboard
+- Journal Entry
+Setting
+
+Behavior:
+- Side dropdown expands on click
+

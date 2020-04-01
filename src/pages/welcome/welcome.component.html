@@ -1,0 +1,75 @@
+<ion-content>
+    <ion-slides pager>
+        <ion-slide>
+            <div
+                ion-text
+                class="content-slide"
+            >
+                <img src="assets/img/welcome1.svg">
+                <h2>Solusi praktis untuk berbagai bisnis</h2>
+                <p>
+                    Dalam satu aplikasi, Paper.id bisa mengurus seluruh kebutuhan bisnis seperti Invoice/Surat Tagihan, Finance/Keuangan, Manajemen Stok/Gudang dan Akuntansi/Pembukuan.
+                </p>
+            </div>
+        </ion-slide>
+
+        <ion-slide>
+            <div
+                ion-text
+                class="content-slide"
+            >
+                <img src="assets/img/welcome2.svg">
+                <h2>One Click Share melalui Messenger favorit</h2>
+                <p>
+                    Kirim invoice dengan WhatsApp, LINE atau aplikasi favorit lainnya dijamin lebih cepat dan dapat terhindar dari berbagai alasan.
+                </p>
+            </div>
+        </ion-slide>
+        <ion-slide>
+            <div
+                ion-text
+                class="content-slide"
+            >
+                <img src="assets/img/welcome3.svg">
+                <h2>Digital Payment untuk dapatkan pelunasan lebih cepat</h2>
+                <p>
+                    Berbagai pilihan metode pembayaran mulai dari Kartu Kredit, Virtual Account, dan Bank Transfer akan memudahkan pelanggan kamu untuk melunasi invoice.
+                </p>
+            </div>
+        </ion-slide>
+    </ion-slides>
+</ion-content>
+
+<ion-footer class="footer-onboarding">
+    <div>
+        <ion-row class="row-footer">
+            <ion-col col-10>
+                <div class="welcome_button">
+                    <button
+                        ion-button
+                        color="paper_green"
+                        [navPush]="register"
+                        class="button-create button-register"
+                    >
+                        Daftar
+                    </button>
+                </div>
+            </ion-col>
+        </ion-row>
+        <ion-row class="row-footer">
+            <ion-col col-10>
+                <div class="welcome_button">
+                    Sudah punya akun?
+                    <span
+                        color="paper_blue"
+                        [navPush]="login"
+                        class="text-login"
+                    >
+                        Masuk
+                    </span>
+                </div>
+            </ion-col>
+        </ion-row>
+        <img class="wave-onboarding" src="assets/img/wave-onboarding.svg">
+    </div>
+</ion-footer>

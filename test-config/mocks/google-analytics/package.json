@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/google-analytics",
+  "_id": "@ionic-native-mocks/google-analytics@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-D7MQTgS/5CTLXK8h3+Socoau9R6/Z7znPHze8LAqQq6wZz665/fyV02S2g3fc5RiTWCQIFnvLee2PtPqOeMXvQ==",
+  "_location": "/@ionic-native-mocks/google-analytics",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/google-analytics",
+    "name": "@ionic-native-mocks/google-analytics",
+    "escapedName": "@ionic-native-mocks%2fgoogle-analytics",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/google-analytics/-/google-analytics-2.0.6.tgz",
+  "_shasum": "ecad871987b5351b0f7ad127e63f0345c1cbf9f8",
+  "_spec": "@ionic-native-mocks/google-analytics",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/google-analytics",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

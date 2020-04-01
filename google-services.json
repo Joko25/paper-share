@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "543801968470",
+    "firebase_url": "https://paper-invoicing-android-ionic.firebaseio.com",
+    "project_id": "paper-invoicing-android-ionic",
+    "storage_bucket": "paper-invoicing-android-ionic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543801968470:android:0f1cd9475becd314",
+        "android_client_info": {
+          "package_name": "id.paper.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543801968470-haopimct7hch9fj595p0r0hgs9ms54ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.paper.beta",
+            "certificate_hash": "18d2faf0e776bc9e309bb5f0e715fc9e92bc7169"
+          }
+        },
+        {
+          "client_id": "543801968470-alo96e7tcoo8dqod668d4fsq8ngvpu7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqTTHS9v49X7MFmCskXpU7egKpRxNRn4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543801968470-k7dmns84sp40aomm61vt474adfeqcmh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+    
+  ],
+  "configuration_version": "1"
+}

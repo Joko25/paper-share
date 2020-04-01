@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/taptic-engine",
+  "_id": "@ionic-native-mocks/taptic-engine@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-uCSlhhben95sR8Gdzomu+uvo6pFJU+iNICABhaQM615ceV1SjQa+tQBVh7Xs83KsZoR+s76Nn/Gufy4SuqsbjQ==",
+  "_location": "/@ionic-native-mocks/taptic-engine",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/taptic-engine",
+    "name": "@ionic-native-mocks/taptic-engine",
+    "escapedName": "@ionic-native-mocks%2ftaptic-engine",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/taptic-engine/-/taptic-engine-2.0.6.tgz",
+  "_shasum": "562660f29a028899240909607a2016e04d71aaab",
+  "_spec": "@ionic-native-mocks/taptic-engine",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/taptic-engine",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

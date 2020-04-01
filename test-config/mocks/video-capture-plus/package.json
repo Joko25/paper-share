@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/video-capture-plus",
+  "_id": "@ionic-native-mocks/video-capture-plus@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-JSq5h2d8bGxMnxjZPC6YGQKWIFUTL3XzdQzHTjeM6Xj/AGtCgo/QjKOEXnbDuIhumhb8a5TGgLyXV2SY1IgxgA==",
+  "_location": "/@ionic-native-mocks/video-capture-plus",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/video-capture-plus",
+    "name": "@ionic-native-mocks/video-capture-plus",
+    "escapedName": "@ionic-native-mocks%2fvideo-capture-plus",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/video-capture-plus/-/video-capture-plus-2.0.6.tgz",
+  "_shasum": "970f335aa6a92307c050958215c56a09a3589b37",
+  "_spec": "@ionic-native-mocks/video-capture-plus",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/video-capture-plus",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

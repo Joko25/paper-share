@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/facebook",
+  "_id": "@ionic-native-mocks/facebook@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-aX/OaKOZ1BKCW1mbkEhXQvYYohnssPF70PhpznyEi7cI+SuZ6sLwceHHOL0oNAIWb91UbYvOgylHQauCROp9pw==",
+  "_location": "/@ionic-native-mocks/facebook",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/facebook",
+    "name": "@ionic-native-mocks/facebook",
+    "escapedName": "@ionic-native-mocks%2ffacebook",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/facebook/-/facebook-2.0.6.tgz",
+  "_shasum": "450e6ed88cd1f036905896723557e5763a97f81f",
+  "_spec": "@ionic-native-mocks/facebook",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/facebook",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

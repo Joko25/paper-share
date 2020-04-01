@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/device-motion",
+  "_id": "@ionic-native-mocks/device-motion@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-s8g5LpacWfiIWoK75wYWATjCQjQAP5Thp+QOCcE4MnpoZTzcktMzsw0+6eaCcWc505L12eynr7j52lZL2VQbiw==",
+  "_location": "/@ionic-native-mocks/device-motion",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/device-motion",
+    "name": "@ionic-native-mocks/device-motion",
+    "escapedName": "@ionic-native-mocks%2fdevice-motion",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/device-motion/-/device-motion-2.0.6.tgz",
+  "_shasum": "10f00e2da48a85f3787b432fd66f04407ff11a6d",
+  "_spec": "@ionic-native-mocks/device-motion",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/device-motion",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/app-rate",
+  "_id": "@ionic-native-mocks/app-rate@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-1EFZAQflRQKlB+S8vg11AJf3Kts0f+NNjsc0Iur8b1Fe4IKV3zSGGa0X+EfB2teqyFMA58FO4ZymN3GmEUFlsw==",
+  "_location": "/@ionic-native-mocks/app-rate",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/app-rate",
+    "name": "@ionic-native-mocks/app-rate",
+    "escapedName": "@ionic-native-mocks%2fapp-rate",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/app-rate/-/app-rate-2.0.6.tgz",
+  "_shasum": "82899d1a925f663c081edf97d13cf87e4138b2de",
+  "_spec": "@ionic-native-mocks/app-rate",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/app-rate",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/video-player",
+  "_id": "@ionic-native-mocks/video-player@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-OuB3OftaxZboLm8v5N2kplMiTcGfJTnjAl9Pvl9OE84mSla+NEHb3ewKwvf8psulsqVjIdIN8i+U+Dato6Yb1Q==",
+  "_location": "/@ionic-native-mocks/video-player",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/video-player",
+    "name": "@ionic-native-mocks/video-player",
+    "escapedName": "@ionic-native-mocks%2fvideo-player",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/video-player/-/video-player-2.0.6.tgz",
+  "_shasum": "24359a5b798451fd850e39faa9a9d5686e58b679",
+  "_spec": "@ionic-native-mocks/video-player",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/video-player",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/httpd",
+  "_id": "@ionic-native-mocks/httpd@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-QT8qDz6RDz1cKSk15iY3iFE2SzUP0gGCj8e+qKwvZ7Bt1bY3t+h80IvoXoE8mTvfMZfyB61VXUK9CeXpVKhipg==",
+  "_location": "/@ionic-native-mocks/httpd",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/httpd",
+    "name": "@ionic-native-mocks/httpd",
+    "escapedName": "@ionic-native-mocks%2fhttpd",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/httpd/-/httpd-2.0.6.tgz",
+  "_shasum": "762a1d22ab66184a9c87c72b9129ec26cd09f4a2",
+  "_spec": "@ionic-native-mocks/httpd",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/httpd",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

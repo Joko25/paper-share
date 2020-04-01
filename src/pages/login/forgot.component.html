@@ -1,0 +1,63 @@
+<ion-header class="--chevron-back-button --paper-background-blue">
+    <ion-navbar>
+        <ion-title>Lupa Password</ion-title>
+    </ion-navbar>
+</ion-header>
+<ion-content >
+
+    <!-- align Di the bottom of the page -->
+    <ion-row >
+        <form class="--padding-without-card" [formGroup]="forgotForm">
+            <ion-col col-12>
+                <div class="login-paper-logo">
+                    <img src="assets/img/paperlogofinal.svg">
+                    <h2>Silahkan Reset Password Anda</h2>
+                </div>
+            </ion-col>
+
+            <ion-col col-12>
+                <!-- <spinner [hidden]="!isLoading"></spinner> -->
+                <ion-item [ngClass]="!forgotForm.controls.email.valid  && (forgotForm.controls.email.dirty || submitAttempt) ? 'item-error' : ''">
+                    <ion-label stacked>
+                        Email
+                     
+                    </ion-label>
+                    <ion-input
+                        type="text"
+                        formControlName="email"
+                        placeholder="email Anda untuk konfirmasi reset Password Anda"
+                    ></ion-input>
+                </ion-item>
+                <ion-item
+                    class="item-required required-margin"
+                    *ngIf="!forgotForm.controls.email.valid  && (forgotForm.controls.email.dirty || submitAttempt)"
+                >
+                </ion-item>
+            </ion-col>
+
+            <ion-col col-12>
+                <div
+                    ion-text
+                    class="text-center"
+                >
+                    <button
+                        ion-button
+                        color="paper_blue"
+                        (click)="forgotPassword()"
+                        class="button-create"
+                    >
+                        Reset Password
+                    </button>
+                </div>
+            </ion-col>
+
+        </form>
+    </ion-row>
+
+    <!-- align Di the bottom of the page -->
+    <div style="position: fixed; bottom: 0px; width: 100%">
+        <div style="text-align: center">
+            <img src="assets/img/heropaperlogin.svg">
+        </div>
+    </div>
+</ion-content>

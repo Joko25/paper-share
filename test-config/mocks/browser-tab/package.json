@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/browser-tab",
+  "_id": "@ionic-native-mocks/browser-tab@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-kWyQVwk9YX2Pgm+pmryH/4YJeGzCl5U9LqRFJ6qsQQzmsVD9A9oWlL3BXZbz2rvvBMdqY/0Z7HAyT3v3hIR06w==",
+  "_location": "/@ionic-native-mocks/browser-tab",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/browser-tab",
+    "name": "@ionic-native-mocks/browser-tab",
+    "escapedName": "@ionic-native-mocks%2fbrowser-tab",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/browser-tab/-/browser-tab-2.0.6.tgz",
+  "_shasum": "89d797fffc1f65722e85902652c5d332b9654546",
+  "_spec": "@ionic-native-mocks/browser-tab",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/browser-tab",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

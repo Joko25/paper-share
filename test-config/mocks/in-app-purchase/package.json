@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/in-app-purchase",
+  "_id": "@ionic-native-mocks/in-app-purchase@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-1p9mxi8zoY01cY25OCtWWbTm8wDoVBmf8OiAAm8edwZIHwZ2AoPZvW+h8slep324rLD8Sx+cr7YCH+qIsiT2OQ==",
+  "_location": "/@ionic-native-mocks/in-app-purchase",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/in-app-purchase",
+    "name": "@ionic-native-mocks/in-app-purchase",
+    "escapedName": "@ionic-native-mocks%2fin-app-purchase",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/in-app-purchase/-/in-app-purchase-2.0.6.tgz",
+  "_shasum": "bc99921511f3c9774bb501609ae70a20f5205d9f",
+  "_spec": "@ionic-native-mocks/in-app-purchase",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/in-app-purchase",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

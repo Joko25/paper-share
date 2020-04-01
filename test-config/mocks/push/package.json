@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/push",
+  "_id": "@ionic-native-mocks/push@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-1blIhGc4N26uTqPq2VHPJjtcNWVA93MnamGbvIGY0vyBmDyL/P+YoGBx3MqdgPm6S/wpOxc3Bf5Lx8ILCN7uHA==",
+  "_location": "/@ionic-native-mocks/push",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/push",
+    "name": "@ionic-native-mocks/push",
+    "escapedName": "@ionic-native-mocks%2fpush",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/push/-/push-2.0.6.tgz",
+  "_shasum": "282663f68a99b6e1e2e49e248a43080fe1078085",
+  "_spec": "@ionic-native-mocks/push",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/push",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

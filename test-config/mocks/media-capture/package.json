@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/media-capture",
+  "_id": "@ionic-native-mocks/media-capture@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-o06Fp4CuZpHS9l766+PIKiIULinVxSfxbeBlkZUuq5ah+HfcduCqnM9RleOSTvJ8Hr8grnfA8a2+5HTm10D2Mw==",
+  "_location": "/@ionic-native-mocks/media-capture",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/media-capture",
+    "name": "@ionic-native-mocks/media-capture",
+    "escapedName": "@ionic-native-mocks%2fmedia-capture",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/media-capture/-/media-capture-2.0.6.tgz",
+  "_shasum": "fbf4aaed2692c6d4d1ba80af7593d04b587717f4",
+  "_spec": "@ionic-native-mocks/media-capture",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/media-capture",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

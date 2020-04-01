@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/broadcaster",
+  "_id": "@ionic-native-mocks/broadcaster@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-gfWMUSjbeJwkSuyxq0G1r6Cix1R8GaRvIz9k2s8SoXvVzug+KLXEx2T/mWKO2C3LXwhSFbI/p2JutVwPc/u+Rg==",
+  "_location": "/@ionic-native-mocks/broadcaster",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/broadcaster",
+    "name": "@ionic-native-mocks/broadcaster",
+    "escapedName": "@ionic-native-mocks%2fbroadcaster",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/broadcaster/-/broadcaster-2.0.6.tgz",
+  "_shasum": "013d4c86ef930365278e9d75cf45e1f6263a62b4",
+  "_spec": "@ionic-native-mocks/broadcaster",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/broadcaster",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}

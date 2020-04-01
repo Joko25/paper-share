@@ -1,0 +1,26 @@
+<ion-card class="--shadow-card-small --round-card" style="display: flex; flex-direction: column;">
+    <ion-grid>
+        <ion-row (click)="toggleAccordion()"
+            [ngStyle]="!accordionExapanded ? {'order':  '2','background-color': 'rgba(61, 153, 212, 0.2)', 'margin-top': '0px'} : {'order': '1', 'background-color': 'rgba(61, 153, 212, 0.2)', 'margin-top' : '15px'}">
+            <ion-col col-10>
+                <div class="card-header-view custom-card-view">
+                    <h3>{{title}}</h3>
+                    <h2>{{detail}}</h2>
+                </div>
+            </ion-col>
+            <ion-col col-2>
+                <button ion-button clear small icon-only item-right>
+                    <ion-icon color="light" [name]="icon"></ion-icon>
+                </button>
+            </ion-col>
+        </ion-row>
+        <ion-row [ngStyle]="{'order': !accordionExapanded ? 1 : 2}">
+            <ion-col col-12>
+                <ion-card-content #cc
+                    [ngStyle]="!accordionExapanded ? {'border-top': '1px solid #868d91', 'margin-top': '15px'} : {}">
+                    <ng-content></ng-content>
+                </ion-card-content>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+</ion-card>

@@ -1,0 +1,51 @@
+{
+  "_from": "@ionic-native-mocks/nfc",
+  "_id": "@ionic-native-mocks/nfc@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-pnlMqjPFdv1cAiFl3asRgXK2Dm8re5PH6Rny/0aaO4TTck6PGbfC8F6uOwrN1mSZ9jAITsobF4Njv/OFVi8vLA==",
+  "_location": "/@ionic-native-mocks/nfc",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native-mocks/nfc",
+    "name": "@ionic-native-mocks/nfc",
+    "escapedName": "@ionic-native-mocks%2fnfc",
+    "scope": "@ionic-native-mocks",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@ionic-native-mocks/nfc/-/nfc-2.0.6.tgz",
+  "_shasum": "06df598fe2f5e25ebc067f1aa417c26468f2b729",
+  "_spec": "@ionic-native-mocks/nfc",
+  "_where": "C:\\Users\\inggil\\_works\\paper_ionic",
+  "author": {
+    "name": "Chris Griffith"
+  },
+  "bugs": {
+    "url": "https://github.com/chrisgriffith/ionic-native-mocks/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native Mocks- Native plugins for ionic apps",
+  "homepage": "https://github.com/chrisgriffith/ionic-native-mocks#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native-mocks/nfc",
+  "peerDependencies": {
+    "@ionic-native/core": "^3.12.0",
+    "@angular/core": "*",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgriffith/ionic-native-mocks.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.6"
+}
